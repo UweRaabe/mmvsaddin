@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMVS2003AddIn", "MMVS2003AddIn\MMVS2003AddIn.csproj", "{54431C90-29C6-4D33-AA24-C0D7D4244193}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Debug.ActiveCfg = Debug|.NET
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Debug.Build.0 = Debug|.NET
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Release.ActiveCfg = Release|.NET
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

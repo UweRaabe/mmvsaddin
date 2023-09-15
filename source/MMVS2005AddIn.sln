@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMVS2005AddIn", "MMVS2005AddIn\MMVS2005AddIn.csproj", "{54431C90-29C6-4D33-AA24-C0D7D4244193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Debug|Default.Build.0 = Debug|Any CPU
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Release|Default.ActiveCfg = Release|Any CPU
+		{54431C90-29C6-4D33-AA24-C0D7D4244193}.Release|Default.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
